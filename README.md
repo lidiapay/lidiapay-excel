@@ -2,6 +2,9 @@
 Integrating the LidiaPay app with MS-Excel
 Pay and Receive Bitcoin (BTC), Ripple (XRP) and other cryptocurrencies by LidiaPay network.
 
+## Source code
+Download the file [LidiaPay-Excel.xlsm](https://github.com/lidiapay/lidiapay-excel/blob/master/LidiaPay-Excel.xlsm)
+
 ![LidiaPay Excel](https://i.ibb.co/7tmCqSZ/excel-lidia.png)
 
 You can do the actions of your application account outside of mobile devices and improve the power of use.
@@ -10,6 +13,7 @@ You can do the actions of your application account outside of mobile devices and
 The code can be found in VBA Macro editor.
 ![LidiaPay Excel Developer Tab](https://i.ibb.co/hf1cn3V/excel-lidia-developer-tab.png)
 
+## API Authentication
 All actions require API authentication. Enter your account and password before any action.
 ![LidiaPay Excel API Authentication](https://i.ibb.co/YkWftwN/excel-lidia-authentication.png)
 
@@ -66,7 +70,7 @@ Private Function GetAuthToken() As String
     
 End Function
 ```
-
+## Transaction List
 Load/Reload Transaction List action show the list of transactions for authenticated account. The Status cell informs the current status of the connection.
 ![LidiaPay Excel Transaction List](https://i.ibb.co/4d98J04/excel-lidia-load-tx.png)
 
@@ -146,7 +150,7 @@ Sub ListTx(token As String)
     Worksheets("Transactions").Range(CELL_STATUS).Value = "Ready"
 End Sub
 ```
-
+## Send Payment
 To pay for a transaction, you need to tell the cashier (receiver's account) and the transaction ID.
 ![LidiaPay Excel Pay Transaction](https://i.ibb.co/wNqbTNY/excel-lidia-pay-typing.png)
 
