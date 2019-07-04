@@ -6,6 +6,7 @@ Pay and Receive Bitcoin (BTC), Ripple (XRP) and other cryptocurrencies by LidiaP
 Download the file [LidiaPay-Excel.xlsm](https://github.com/lidiapay/lidiapay-excel/blob/master/LidiaPay-Excel.xlsm)
 
 ![LidiaPay Excel](https://i.ibb.co/7tmCqSZ/excel-lidia.png)
+![LidiaPay Excel Integration](https://i.ibb.co/HCm6mtR/lidia-excel-integration.png)
 
 You can do the actions of your application account outside of mobile devices and improve the power of use.
 ![LidiaPay App](https://i.ibb.co/zFM2h61/excel-lidiapay-app.png)
