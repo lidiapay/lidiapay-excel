@@ -1,2 +1,4 @@
 # lidiapay-excel
-Integrating the Lidia Play app with MS-Excel
+Integrating the LidiaPay app with MS-Excel
+
+![LidiaPay Excel](https://i.ibb.co/7tmCqSZ/excel-lidia.png)
