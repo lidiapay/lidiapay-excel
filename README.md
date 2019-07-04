@@ -1,7 +1,11 @@
 # lidiapay-excel
 Integrating the LidiaPay app with MS-Excel
+Pay and Receive Bitcoin (BTC), Ripple (XRP) and other cryptocurrencies by LidiaPay network.
 
 ![LidiaPay Excel](https://i.ibb.co/7tmCqSZ/excel-lidia.png)
+
+You can do the actions of your application account outside of mobile devices and improve the power of use.
+![LidiaPay App](https://i.ibb.co/zFM2h61/excel-lidiapay-app.png)
 
 The code can be found in VBA Macro editor.
 ![LidiaPay Excel Developer Tab](https://i.ibb.co/hf1cn3V/excel-lidia-developer-tab.png)
